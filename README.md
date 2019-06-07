@@ -31,7 +31,7 @@ The app could run based on grid system of 24 columns, the visual part being almo
 
 ## Useful Links
 [Zero to Mastery - Guidelines on open source](https://github.com/zero-to-mastery/start-here-guidelines)            
-[CONTRIBUTING.md](https://github.com/lucierabahi/temporary-visual-music/blob/master/CONTRIBUTING.md)
+[CONTRIBUTING.md](https://github.com/zero-to-mastery/visual-music/blob/master/CONTRIBUTING.md)
 
 Some music visualizers:      
 [Mazetools Soniface](https://www.mazetools.com/)        
@@ -44,7 +44,7 @@ About the influence of language of perception:
 On music visualization:        
 [World Music Instrument Models and Theory Tools](https://www.facebook.com/WorldMusicInstrumentsAndTheory/)       
 [Visual Future of Music - Theory tools](https://visualfutureofmusic.blogspot.com/p/matrices-frequency-atlas.html)   
-[Andrew Douglas Hope's article](https://github.com/lucierabahi/temporay-visual-music/blob/master/Andrew-Douglas-Hope.md)   from [Quora](https://www.quora.com/What-are-ways-of-visualizing-music)                        
+[Andrew Douglas Hope's article](https://github.com/zero-to-mastery/visual-music/blob/master/Andrew-Douglas-Hope.md)   from [Quora](https://www.quora.com/What-are-ways-of-visualizing-music)                        
 
 ## Functionalities
 ### Version 1.0
