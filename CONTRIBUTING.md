@@ -1,5 +1,6 @@
 # Contributing to Visual Music
-## 1st steps
+
+## First steps
 __Wanted : leader team!__
 * tech lead (whose first task would be to help setting the most relevant stack for the project, as well as a global architecture; and help structuring and sequencing the project tasks in time)
 * design lead that would ensure the design of a beautiful graphical charter, and its respect thereafter
@@ -40,17 +41,35 @@ Tasks that have been completed, reviewed and merged can be found in this section
 ## CONTRIBUTING
 We use Trello for task management. If you want to contribute, contact a project admin through Discord, an invitation to join the team on Trello we'll be given to you. Feel free to write the team some lines so the contributors get to know each other, add your name on the CONTRIBUTORS.md list and... you're good to go! 
 
-### Working on Code
+## Working on Code
 * Pick a listed task from the __Tasks/Todos__ area, assign it to yourself by editing your name into the card
 * Or create a card on the __Staging Area__, you can as well claim it once approved, and start working on it
 * If you want to work on an ongoing task, get permission from the person whose task is assigned to
 * Start a new branch or fork and start coding
 * Always let others in Discord know what you are working on
 
-### Adding Library
+## Adding Library
 If you have any library that you want to use, please discuss it with the team first, as we want to avoid using different libraries that do the same thing.
 
-### Resources
-COMING SOON... 
-* Please read wiki for details of our code, techs, guides and resources.       
-COMING SOON... 
+# Resources & Tools
+
+## Resources:
+### p5.js
+* https://www.youtube.com/watch?v=2O3nm0Nvbi4
+* https://www.youtube.com/watch?v=jEwAMgcCgOA
+
+### Digital Signal Processing
+* https://www.youtube.com/watch?v=HJ_-5mqUZ70 
+* https://www.youtube.com/watch?v=spUNpyF58BY
+
+### Similar projects on GitHub
+* https://github.com/preziotte/party-mode
+* https://github.com/ashinzekene/react-music-player
+
+### Using p5 with React
+* [Using p5 with React](https://discourse.processing.org/t/using-react-with-p5-js-es6-support/3298)
+
+
+## Tools:
+* [Figma](https://www.figma.com/) - probably need to design the UI interface first and plan out the data transfers after
+* [p5.js](http://p5js.org/)
