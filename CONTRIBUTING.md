@@ -76,6 +76,16 @@ If you have any library that you want to use, please discuss it with the team fi
 * https://github.com/preziotte/party-mode
 * https://github.com/ashinzekene/react-music-player
 
+## Soundcloud Audio Visualizer Processors:
+* https://codepen.io/DonKarlssonSan/pen/bdNBMz             
+* https://www.reddit.com/r/visualization/comments/54lxof/soundcloud_music_visualizer/                 
+* https://github.com/michaelbromley/soundcloud-visualizer 
+
+## p5.js for music visualization examples: 
+* https://www.youtube.com/watch?v=2O3nm0Nvbi4
+* https://www.youtube.com/watch?v=jEwAMgcCgOA
+* [How to save frames in p5](http://p5js.org/reference/#/p5/saveFrames)
+
 ## Technology / Stack
 * [Using p5 with React](https://discourse.processing.org/t/using-react-with-p5-js-es6-support/3298)
 * [Figma](https://www.figma.com/) - probably need to design the UI interface first and plan out the data transfers after
@@ -84,11 +94,7 @@ If you have any library that you want to use, please discuss it with the team fi
 * [React](https://reactjs.org/)
 
 ## Miscellaneous
-### p5.js for music visualization examples: 
-* https://www.youtube.com/watch?v=2O3nm0Nvbi4
-* https://www.youtube.com/watch?v=jEwAMgcCgOA
-
-### Digital Signal Processing theory
+### Digital Signal Processing theory:
 * https://www.youtube.com/watch?v=HJ_-5mqUZ70 
 * https://www.youtube.com/watch?v=spUNpyF58BY
 
