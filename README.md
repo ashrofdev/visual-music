@@ -35,7 +35,7 @@ https://www.reddit.com/r/visualization/comments/54lxof/soundcloud_music_visualiz
 
 ### Challenges to solve to define tech/stack
 #### Data limit of server if uploading MP3: 
-> @justinwlin#4562: 
+> justinwlin: 
 > The main problem I think with this project is how to upload MP3 and process it. If we allow people to just upload mp3s, and add it to some asset folder, will it just forever buildup in our assets folder taking up space and eventually crashing the server when we exceed the memory limit?
 
 > Or if someone uploads a particularly large mp3 and blows through the data limit of a server, or if there are multiple people uploading files, etc, how do we handle that? 
