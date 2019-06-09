@@ -4,13 +4,13 @@
 __Wanted : contributors!__                           
 Does the project appeal to you? Contact us on Discord and we'll provide the link to the __Trello board__! :smiley:
 
-Admin team:     
-* project head: [lucierabahi](https://github.com/lucierabahi)
-* tech advisor: [justinwlin](https://github.com/justinwlin)
-* design head: ?                          
+Team Lead:     
+* Lead: [lucierabahi](https://github.com/lucierabahi)
+* Tech Advisor: [justinwlin](https://github.com/justinwlin)
+* Design Lead: ?                          
 *that would ensure the design of the graphical charter, and its respect thereafter*
-* quality insurance (QA): ?                      
-*to check the code for issues before a PR can be merged*
+* QA Lead: ?                      
+*quality insurance: to check the code for issues before a PR can be merged*
 
 __We recognize all contributors__
 Contributions can be:
