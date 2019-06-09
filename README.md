@@ -33,6 +33,35 @@ __Examples of Soundcloud implementations:__
 https://codepen.io/DonKarlssonSan/pen/bdNBMz                
 https://www.reddit.com/r/visualization/comments/54lxof/soundcloud_music_visualizer/        
 
+### Challenges to solve to define tech/stack
+#### Data limit of server if uploading MP3: 
+> @justinwlin#4562: 
+> The main problem I think with this project is how to upload MP3 and process it. If we allow people to just upload mp3s, and add it to some asset folder, will it just forever buildup in our assets folder taking up space and eventually crashing the server when we exceed the memory limit?
+
+> Or if someone uploads a particularly large mp3 and blows through the data limit of a server, or if there are multiple people uploading files, etc, how do we handle that? 
+
+* https://www.npmjs.com/package/localforage ?                 
+
+#### Browser implementation of HTML5 APIs
+HTML5 provides interesting APIs that could do the job for the project, but there might be browser implementation issues, it seems to work best with Chrome, and we wish that our app can be accessed from most modern browser as possible :                
+* HTML5 File System API: https://code.tutsplus.com/tutorials/toying-with-the-html5-file-system-api--net-24719              
+* HTML5 Web Audio API: https://www.html5rocks.com/en/tutorials/webaudio/intro/            
+* https://www.html5rocks.com/en/tutorials/getusermedia/intro/               
+* https://caniuse.com/#search=web%20audio%20api               
+* https://www.youtube.com/watch?v=xmGv_Schm5U                          
+
+This is the solution chosen in Preziotte Party Mode: https://github.com/preziotte/party-mode
+along with d3.js: https://d3js.org/
+
+#### Streaming the audio with SoundCloud API:
+Again, browser issues are reported in the https://github.com/michaelbromley/soundcloud-visualizer README:
+> Since the web audio API is pretty new, browser support is patchy:
+> * Chrome Latest versions works well, that's what I've been building in.
+> * Firefox This should work, since it has supported web audio since version 25, but in my tests the audio fails to play. Any suggestions?
+> * Safari I haven't tested it since I'm stuck with the dead Windows version, but I guess it should work since it's WebKit.
+> * IE Nope.
+> * Opera Not tested but maybe now that they switched to WebKit.
+
 ## Useful Links
 [Zero to Mastery - Guidelines on open source](https://github.com/zero-to-mastery/start-here-guidelines)            
 [CONTRIBUTING.md](https://github.com/zero-to-mastery/visual-music/blob/master/CONTRIBUTING.md)
