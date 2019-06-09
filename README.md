@@ -13,21 +13,19 @@ The applications could be :
 * tool or interesting experiment for musicologists, linguists, scientists, etc.
 
 ## Stack:
-Needs to be defined with the help of more experienced developers, especially taking into account the specificities related to the conversion and analysis of audio files...
+Is being defined.  
 
-| Stack:                     |
-|----------------------------|
-| HTML5                      |
-| CSS3 Flexbox & Grid System |
-| Javascript                 |
-| React + Redux              |
-| Node.js + Express.js       |
-| Data-Driven library        |
-| Vector Graphics Scripting  |
-| Stuff ^^                   |
+* React and Redux
+* CSS3 Flexbox & Grid System
+* Javascript
+* Node.JS / Express
+* P5 / maybe d3.JS? Maybe html5?
+* Some storage solution for files: Probably Firebase?? Or AWS?
+* Figma to design the UI interface?
 
+Potential Add-On:
+* [StoryBook](https://storybook.js.org/) Will let us test components individually
 
-The app could run based on grid system of 24 columns, the visual part being almost full screen (but for the necessary buttons) and with a flow from left to right. A beat could trigger the first column and its associated rows. There should be a long horizontal scrolling so the user could look at the entire music piece and not only the extract of 24 beats. The flow could also be from right to left in a second time (for right to left written languages speakers).
 
 ## Useful Links
 [Zero to Mastery - Guidelines on open source](https://github.com/zero-to-mastery/start-here-guidelines)            
@@ -51,21 +49,21 @@ On music visualization:
 * 2 pages:
   * landing page
   * player page
-* MP3 upload
+* MP3 upload? Soundcloud API?
 * Play/Stand-By
 * Export and download screen capture
 * One main theme for visual transcribe
 * No registration
     
 ### Version 2.0
-* User can upload other types of audio files
+* (User can upload other types of audio files?)
 * New visual themes
     
 ### Version 3.0
-* User can input live music
+* (User can input live music?)
 
 ## Release & Launch
-Visual Music should be built with the intention of releasing and maintaining the project in the real world based upon user suggestions and feedback. Therefore providing an awesome opportunityto expand on and learn new skills, but also a project you can include on your resume and show off to friends, family and potential employers.
+Visual Music is being built with the intention of releasing and maintaining the project in the real world. Therefore providing contributors with a great opportunity to expand on and learn new skills, being part of a project that can be included on resumes and showed off to friends, family and potential employers.
 
 Should be discussed and decided by the team in charge when constituted...
 * ZTM Discord
