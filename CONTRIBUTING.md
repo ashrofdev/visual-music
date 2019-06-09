@@ -2,7 +2,7 @@
 
 ## First steps
 __Wanted : contributors!__                           
-Does the project appeal to you? Contact us on Discord and we'll provide the link to the __Trello board__! :)
+Does the project appeal to you? Contact us on Discord and we'll provide the link to the __Trello board__! :smiley:
 
 Admin team:     
 * project head: [lucierabahi](https://github.com/lucierabahi)
