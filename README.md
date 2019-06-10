@@ -61,6 +61,20 @@ Again, browser issues are reported in the https://github.com/michaelbromley/soun
 > * IE Nope.
 > * Opera Not tested but maybe now that they switched to WebKit.
 
+### Potential solution:
+[React Native Soundcloud Streaming App Tutorial, part 2](https://www.youtube.com/watch?v=Fcf-tgSI3x0)
+
+Seems like we can take waveform data we receive about a song and turn it into a drawing through some interpretation of the waveforms. 
+
+We would need to do some processing before storing it because there will be too many points: we need to divide them into chunks and clean the data / simplify it. 
+
+Probably the first sort of testing for example is: 
+* getting / testing the api for SoundCloud   
+* the next step is subdividing those responses    
+* then afterwards, can we draw with those responses? 
+
+We'll need to figure out how to play music + do visualization at the same time.
+
 ## Useful Links
 [Zero to Mastery - Guidelines on open source](https://github.com/zero-to-mastery/start-here-guidelines)            
 [CONTRIBUTING.md](https://github.com/zero-to-mastery/visual-music/blob/master/CONTRIBUTING.md)
